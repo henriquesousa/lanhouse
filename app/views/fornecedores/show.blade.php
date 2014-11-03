@@ -1,0 +1,1 @@
+/home/henrique/workspace/freelas/wiver/lanhouse/app/views/fornecedors/show.blade.php
